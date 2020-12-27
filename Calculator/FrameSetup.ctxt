@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FrameSetup
+comment1.params=width\ height
+comment1.target=FrameSetup(int,\ int)
+comment2.params=
+comment2.target=void\ guisetup()
+comment3.params=
+comment3.target=void\ listener()
+comment4.params=E
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5
